@@ -1,0 +1,42 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	background: #6799FF;
+	position: relative;
+	padding: 0px;
+	margin-top: 0px;
+
+}
+
+h1 {
+	margin-top: 0px;
+	padding-left: 10px;
+	color: white;
+	font-weight: lighter;
+}
+
+form {
+	position: absolute;
+	display: inline-block;
+	right: 20px;
+	top: 30%;
+}
+
+input {
+	border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+    width: 250px;
+
+}
+
+
+.fa {
+	font-family: FontAwesome;
+    display: inline;
+    font-size: 18px;
+}
